@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-- 🔭 I’m currently working on [Photography School]([https://shorturl.at/ghiVW](https://drawing-school.web.app/))
+- 🔭 I’m currently working on [Photography School]([https://shorturl.at/ghiVW])
 
 - 🌱 I’m currently learning **Note JS, React Native**
 
