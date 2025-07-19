@@ -51,6 +51,14 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yeasin1020&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -75,4 +83,3 @@
 > 💻 I love crafting scalable apps with clean architecture, modern frameworks, and well-documented code.
 
 > 🧠 Always curious. Always improving. Always coding.
-
