@@ -12,7 +12,7 @@
 - 👯 Looking to collaborate on: **TypeScript-based Full Stack Projects**  
 - 🛠️ Tools I use: **VS Code, Postman, GitHub, Docker, MongoDB Atlas**  
 - 📫 Email me at: **mdeasinsarkar01@gmail.com**  
-- 📄 [Resume / CV](https://drive.google.com/file/d/1ugtEtWK7Nyr7EpBqkqp_GSe32cv5AHzw/view?usp=sharing)
+- 📄 [Resume / CV](https://drive.google.com/file/d/1dADXu_m_EN_dxJ2zz6UsnkIAcBEF9LmD/view?usp=sharing)
 
 ---
 
